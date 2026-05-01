@@ -1,1 +1,1 @@
-theme sddm
+
