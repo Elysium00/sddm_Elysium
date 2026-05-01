@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Elysium_theme
+Description=Elysium_theme
+Author=Elysium
+License=GPLv.3
+Type=sddm-theme
+Version=420
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=Elysium_theme
